@@ -1,4 +1,4 @@
-# ReactDemo小书
+# ReactDemo
 
 ## 简介
 学习react.js的demo工程
