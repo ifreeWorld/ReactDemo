@@ -1,7 +1,7 @@
 # ReactDemo
 
 ## 简介
-学习react.js的demo工程
+学习react.js+webpack的demo工程
 
 ## 更新日志
 ### 2017.9.3
